@@ -49,5 +49,5 @@ The webpage's styling is achieved through CSS, and Bootstrap is used for some co
 - ![Screenshot 1](output/output1.png) 
 - ![Screenshot 2](output/output2.png)
 - ![Screenshot 3](output/output3.png)
-- ![Screenshot 4].(output/output4.png).
+- ![Screenshot 3](output/output4.png)
 
