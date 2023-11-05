@@ -11,7 +11,7 @@ A tribute webpage to celebrate the life and contributions of Ada Lovelace, the w
 - [Project Structure](#project-structure)
 - [Styling](#styling)
 - [How to Use](#how-to-use)
-- [outputs].(#Outputs).
+- [outputs](#Outputs).
 
 ## Description
 
