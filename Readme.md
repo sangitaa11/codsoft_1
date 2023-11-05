@@ -1,4 +1,4 @@
-# Project Name
+# Tribute Website
 
 **Tribute to Ada Lovelace**
 
@@ -11,7 +11,7 @@ A tribute webpage to celebrate the life and contributions of Ada Lovelace, the w
 - [Project Structure](#project-structure)
 - [Styling](#styling)
 - [How to Use](#how-to-use)
-- [License](#license)
+- [outputs].(#Outputs).
 
 ## Description
 
@@ -46,6 +46,8 @@ The webpage's styling is achieved through CSS, and Bootstrap is used for some co
 
 ## Project Outputs
 
-- ![Screenshot 1](output/output11.png) 
+- ![Screenshot 1](output/output1.png) 
 - ![Screenshot 2](output/output2.png)
-- ![Screenshot 3](output/output3.png) 
+- ![Screenshot 3](output/output3.png)
+- ![Screenshot 4].(output/output4.png).
+
